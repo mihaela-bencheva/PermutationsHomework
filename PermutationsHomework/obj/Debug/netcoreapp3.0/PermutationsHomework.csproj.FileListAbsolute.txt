@@ -1,0 +1,11 @@
+C:\Users\VikS\source\repos\PermutationsHomework\PermutationsHomework\bin\Debug\netcoreapp3.0\PermutationsHomework.exe
+C:\Users\VikS\source\repos\PermutationsHomework\PermutationsHomework\bin\Debug\netcoreapp3.0\PermutationsHomework.deps.json
+C:\Users\VikS\source\repos\PermutationsHomework\PermutationsHomework\bin\Debug\netcoreapp3.0\PermutationsHomework.runtimeconfig.json
+C:\Users\VikS\source\repos\PermutationsHomework\PermutationsHomework\bin\Debug\netcoreapp3.0\PermutationsHomework.runtimeconfig.dev.json
+C:\Users\VikS\source\repos\PermutationsHomework\PermutationsHomework\bin\Debug\netcoreapp3.0\PermutationsHomework.dll
+C:\Users\VikS\source\repos\PermutationsHomework\PermutationsHomework\bin\Debug\netcoreapp3.0\PermutationsHomework.pdb
+C:\Users\VikS\source\repos\PermutationsHomework\PermutationsHomework\obj\Debug\netcoreapp3.0\PermutationsHomework.AssemblyInfoInputs.cache
+C:\Users\VikS\source\repos\PermutationsHomework\PermutationsHomework\obj\Debug\netcoreapp3.0\PermutationsHomework.AssemblyInfo.cs
+C:\Users\VikS\source\repos\PermutationsHomework\PermutationsHomework\obj\Debug\netcoreapp3.0\PermutationsHomework.dll
+C:\Users\VikS\source\repos\PermutationsHomework\PermutationsHomework\obj\Debug\netcoreapp3.0\PermutationsHomework.pdb
+C:\Users\VikS\source\repos\PermutationsHomework\PermutationsHomework\obj\Debug\netcoreapp3.0\PermutationsHomework.csprojAssemblyReference.cache
